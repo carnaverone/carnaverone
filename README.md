@@ -67,9 +67,5 @@ french/english
 > **"Build tools that empower. Design agents that reflect. Create systems that imagine."**
 Open experimentation is how we grow creative technology.
 
----
-
 ## 📄 License
 © 2024 Francesco Carnaverone — Carnaverone Studio
-
----
