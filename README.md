@@ -51,22 +51,7 @@ I build and research:
 
 Contributing tools to the community is core to my work:
 
-- 🎛️ CLI media generators  
-- 🎵 Audio pipelines  
-- 🎥 Auto-editing systems  
-- 🧾 YAML-based creative engines  
-- 🧠 Story agents & creative AI frameworks
-
 > All tools are **MIT-licensed**, designed to be **forked, extended and remixed**.
-
----
-
-## 🔧 Key Projects
-
-- **panzoom-slideshow** – cinematic slideshow generator  
-- **Aether Agent** *(WIP)* – narrative AI agent with memory  
-- **NeuroScore Composer** – musical scoring from visuals *(private)*  
-- **PromptScope** *(coming soon)* – prompt explorer for multimodal AI
 
 ---
 
@@ -74,12 +59,9 @@ Contributing tools to the community is core to my work:
 
 | Domain      | Tools |
 |-------------|-------|
-| AI / ML     | PyTorch, LangChain, Transformers |
+| AI / ML     | PyTorch, LangChain, Transformers, invoke ai |
 | Agents      | Custom agent orchestrators |
 | Visuals     | Processing, TouchDesigner, FFmpeg |
-| Audio       | SoX, LUFS, MIDI tools |
-| Dev Tools   | Python, CLI, FastAPI, YAML |
-| Infra       | Docker, GitHub Actions, HuggingFace Hub |
 
 ---
 
@@ -87,9 +69,9 @@ Contributing tools to the community is core to my work:
 
 A lab for:
 
-- 🧠 AI narrative research  
-- 🎥 Automated video systems  
-- 🎼 Generative music pipelines  
+- 🧠 AI research  
+- 🎥  video systems  
+- 🎼  music pipelines  
 - 🖼️ Algorithmic aesthetics  
 - 🎛️ Open-source tools
 
@@ -109,11 +91,12 @@ Clients / collaborators: independent artists, researchers, experimental curators
 
 ## 📫 Contact
 
-📍 France  
-📧 francesco@carnaverone.studio  
-🌐 https://carnaverone.studio  
-🐙 GitHub: [your-username](https://github.com/your-username)
+📍 canada  
+📧 contact@carnaverone.com
+🌐 https://carnaverone.com  
+🐙 GitHub: [carnaverone](https://github.com/carnaverone)
 
+french/english
 ---
 
 ## 🧭 Philosophy
