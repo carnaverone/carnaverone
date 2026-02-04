@@ -80,12 +80,11 @@ Clients / collaborators: independent artists, researchers, experimental curators
 ---
 
 ## 📫 Contact
-📍 canada  
+french/english
 📧 contact@carnaverone.com
 🌐 https://carnaverone.com  
 🐙 GitHub: [carnaverone](https://github.com/carnaverone)
 
-french/english
 ---
 
 ## 🧭 Philosophy
