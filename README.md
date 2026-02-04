@@ -68,4 +68,4 @@ french/english
 Open experimentation is how we grow creative technology.
 
 ## 📄 License
-© 2024 Francesco Carnaverone — Carnaverone Studio
+© 2024 Francesco Carnaverone — Carnaverone Studio A.I
