@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/AI%20Agents-Systems-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Generative%20Art-Visual%20%26%20Audio-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Creative%20Coding-Python%20%7C%20FFmpeg-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Creative%20Coding-Python%20%7C%20astro-lightgrey?style=for-the-badge" />
 </p>
 
 ## 🧠 About
