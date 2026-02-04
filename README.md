@@ -47,16 +47,7 @@ I build and research:
 Contributing tools to the community is core to my work:
 > All tools are **MIT-licensed**, designed to be **forked, extended and remixed**.
 
----
-
-## 🧪 Tech Stack
-| Domain      | Tools |
-|-------------|-------|
-| AI / ML     | PyTorch, LangChain, Transformers, invoke ai |
-| Agents      | Custom agent orchestrators |
-| Visuals     | Processing, TouchDesigner, FFmpeg |
-
----
+--- 
 
 ## 🎨 Carnaverone Studio
 A lab for:
@@ -66,16 +57,13 @@ A lab for:
 - 🖼️ Algorithmic aesthetics  
 - 🎛️ Open-source tools
 
-Clients / collaborators: independent artists, researchers, experimental curators.
-
----
-
 ## 📚 Research Areas
 - Memory-augmented agents  
 - Creative co-authorship  
 - Multimodal narration  
 - Prompt reflexivity  
 - Cognitive tooling
+Clients / collaborators: independent artists, researchers, experimental curators.
 
 ---
 
