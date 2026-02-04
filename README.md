@@ -21,12 +21,10 @@
 ---
 
 ## 🧠 About
-
-I’m **Francesco Carnaverone**, an independent developer, AI artist, and founder of **Carnaverone Studio** —  
+I’m **Francesco Carnaverone**, an independent developer, AI artist, and founder of **Carnaverone Studio a.i** —  
 a creative R&D lab focused on **AI agents, generative systems, and algorithmic storytelling**.
 
 My work merges:
-
 - 🤖 Autonomous AI Agents  
 - 🎨 Generative art & music  
 - 🎥 Narrative & video automation  
@@ -36,9 +34,7 @@ My work merges:
 ---
 
 ## 🤖 AI Agents & Creative Intelligence
-
 I build and research:
-
 - 🧩 Multi-agent orchestration systems  
 - 🧠 Memory-based narrative agents  
 - 🛠 Tool-using CLI agents  
@@ -48,15 +44,12 @@ I build and research:
 ---
 
 ## 🌍 Open Source & Community
-
 Contributing tools to the community is core to my work:
-
 > All tools are **MIT-licensed**, designed to be **forked, extended and remixed**.
 
 ---
 
 ## 🧪 Tech Stack
-
 | Domain      | Tools |
 |-------------|-------|
 | AI / ML     | PyTorch, LangChain, Transformers, invoke ai |
@@ -66,9 +59,7 @@ Contributing tools to the community is core to my work:
 ---
 
 ## 🎨 Carnaverone Studio
-
 A lab for:
-
 - 🧠 AI research  
 - 🎥  video systems  
 - 🎼  music pipelines  
@@ -80,7 +71,6 @@ Clients / collaborators: independent artists, researchers, experimental curators
 ---
 
 ## 📚 Research Areas
-
 - Memory-augmented agents  
 - Creative co-authorship  
 - Multimodal narration  
@@ -90,7 +80,6 @@ Clients / collaborators: independent artists, researchers, experimental curators
 ---
 
 ## 📫 Contact
-
 📍 canada  
 📧 contact@carnaverone.com
 🌐 https://carnaverone.com  
@@ -100,16 +89,12 @@ french/english
 ---
 
 ## 🧭 Philosophy
-
 > **"Build tools that empower. Design agents that reflect. Create systems that imagine."**
-
 Open experimentation is how we grow creative technology.
 
 ---
 
 ## 📄 License
-
-MIT License  
-© 2026 Francesco Carnaverone — Carnaverone Studio
+© 2024 Francesco Carnaverone — Carnaverone Studio
 
 ---
