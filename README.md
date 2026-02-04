@@ -1,6 +1,6 @@
 <!-- HEADER WITH LOGO PLACEHOLDER -->
 <p align="center">
-  <img src="https://your-logo-url.com/logo.png" alt="Carnaverone Studio Logo" height="100"/>
+  <img src="logo.png" alt="Carnaverone Studio Logo" height="100"/>
 </p>
 
 <h1 align="center">👨‍💻 Francesco Carnaverone</h1>
