@@ -18,13 +18,9 @@
   <img src="https://img.shields.io/badge/Creative%20Coding-Python%20%7C%20FFmpeg-lightgrey?style=for-the-badge" />
 </p>
 
----
-
 ## 🧠 About
 I’m **Francesco Carnaverone**, an independent developer, AI artist, and founder of **Carnaverone Studio a.i** —  
 a creative R&D lab focused on **AI agents, generative systems, and algorithmic storytelling**.
-
----
 
 ## My work merges:
 - 🤖 Autonomous AI Agents  
@@ -32,8 +28,6 @@ a creative R&D lab focused on **AI agents, generative systems, and algorithmic s
 - 🎥 Narrative & video automation  
 - 🧠 AI-assisted storytelling  
 - 🛠️ Tool design for creators & devs
-
-
 
 ## 🤖 AI Agents & Creative Intelligence
 I build and research:
@@ -43,11 +37,9 @@ I build and research:
 - 🎭 Fictional world generators  
 - 🔁 Reflexive AI agents with feedback loops
 
-
 ## 🌍 Open Source & Community
 Contributing tools to the community is core to my work:
 > All tools are **MIT-licensed**, designed to be **forked, extended and remixed**.
-
 
 ## 🎨 Carnaverone Studio
 A lab for:
@@ -65,14 +57,11 @@ A lab for:
 - Cognitive tooling
 Clients / collaborators: independent artists, researchers, experimental curators.
 
-
 ## 📫 Contact
 french/english
 📧 contact@carnaverone.com
 🌐 https://carnaverone.com  
 🐙 GitHub: [carnaverone](https://github.com/carnaverone)
-
----
 
 ## 🧭 Philosophy
 > **"Build tools that empower. Design agents that reflect. Create systems that imagine."**
