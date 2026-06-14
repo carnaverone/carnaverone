@@ -6,7 +6,9 @@
 
 ### Carnaverone Studio · Creative AI Tools · Web / Desktop Apps · Media Systems
 
-**FR** — Développement d’outils créatifs, d’applications web / desktop et de systèmes média assistés par IA.  
+**Independent creative tech studio building tools for music, video, books, voice and AI-assisted production.**
+
+**FR** — Création d’outils numériques, d’applications web / desktop et de systèmes média assistés par IA.  
 **EN** — Building creative tools, web / desktop applications and AI-assisted media systems.
 
 [![Website](https://img.shields.io/badge/Website-carnaverone.com-FF6B00?style=for-the-badge)](https://carnaverone.com)
@@ -17,45 +19,48 @@
 
 ---
 
-## 🇫🇷 À propos
+## Studio
 
-**Carnaverone Studio** est un espace de création et de développement orienté vers les outils numériques, l’IA créative, la musique, la vidéo, l’image, le livre audio et les applications locales.
+**Carnaverone Studio** is a creative technology lab focused on practical tools for independent production.
 
-Le travail combine développement logiciel, design d’outils, automatisation média et expérimentation créative.
+The work sits between software, AI media, automation and digital publishing — with a focus on usable systems rather than hype.
 
----
-
-## 🇬🇧 About
-
-**Carnaverone Studio** is a creative and technical space focused on digital tools, creative AI, music, video, image, audiobook workflows and local applications.
-
-The work combines software development, tool design, media automation and creative experimentation.
+**FR** — Un studio créatif-tech pour développer des outils concrets autour de la musique, l’image, la vidéo, la voix, les livres et les produits numériques.  
+**EN** — A creative-tech studio building practical tools around music, image, video, voice, books and digital products.
 
 ---
 
-## 🚧 Projects / Projets
+## What I Build
+
+| Area | Focus |
+|---|---|
+| 🎛️ **Audio / Music** | mastering support, album workflows, audio preparation |
+| 🎙️ **Voice / Podcast** | voice tools, podcast concepts, audiobook workflows |
+| 🎬 **Image / Video** | AI media experiments, visual systems, creative pipelines |
+| 🌐 **Web / Desktop** | local-first apps, websites, dashboards, production tools |
+| 📚 **Publishing** | book, KDP and digital product workflow concepts |
+
+---
+
+## Projects
 
 ### Carnaverone Studio AI Suite
-
-Creative software suite concept for local-first production modules: music, audiobook, image, video, podcast and publishing tools.
+Creative software suite concept for local production modules: music, audiobook, image, video, podcast and publishing tools.
 
 ### Audio / Mastering Tools
-
 Scripts and workflows for audio preparation, mastering support, quality checks and release organization.
 
 ### Web Platform
-
-Website, creative pages, articles, digital products and public studio presentation.
+Studio website, creative pages, articles, downloads, digital products and public presentation.
 
 ### AI / Media Experiments
-
 Prompt systems, visual concepts, video workflows, voice ideas and creative automation prototypes.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-### Languages / Langages
+### Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -118,7 +123,7 @@ Prompt systems, visual concepts, video workflows, voice ideas and creative autom
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -130,7 +135,7 @@ Prompt systems, visual concepts, video workflows, voice ideas and creative autom
 
 ---
 
-## 📫 Contact
+## Contact
 
 - Website: [carnaverone.com](https://carnaverone.com)
 - GitHub: [github.com/carnaverone](https://github.com/carnaverone)
@@ -143,7 +148,5 @@ Prompt systems, visual concepts, video workflows, voice ideas and creative autom
 
 **Carnaverone Studio**  
 Creative tools · AI media · Web / desktop systems
-
-© 2026 Francesco Carnaverone — Carnaverone Studio A.I
 
 </div>
