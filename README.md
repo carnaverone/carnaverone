@@ -57,6 +57,17 @@ A lab for:
 - Cognitive tooling
 Clients / collaborators: independent artists, researchers, experimental curators.
 
+## 🗂️ Project governance
+
+This profile repository also maintains the central map of Carnaverone projects:
+
+- [`REPOSITORY_REGISTRY.md`](REPOSITORY_REGISTRY.md) — provisional role and status of each GitHub repository;
+- [`AI_REPOSITORY_ROLLOUT.md`](AI_REPOSITORY_ROLLOUT.md) — progressive deployment plan for Claude, Codex and ChatGPT handoff files;
+- [`GITLAB_RELEASE_BACKUP_POLICY.md`](GITLAB_RELEASE_BACKUP_POLICY.md) — verified release and recovery backups to GitLab;
+- [`AI_HANDOFF.md`](AI_HANDOFF.md) — current state and next governance task.
+
+Empty repositories remain untouched until their role and naming are reviewed. Active products are documented one repository at a time to avoid mixing Creative Suite, Command Center, Swarm, CarnaFlow, Social Automation, Jarvis, Z3TA RAG and Archiva.
+
 ## 📫 Contact
 french/english
 📧 contact@carnaverone.com
