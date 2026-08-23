@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="330" viewBox="0 0 1400 330" role="img" aria-labelledby="title desc">
+  <title id="title">Carnaverone Studio areas of work</title>
+  <desc id="desc">Public-facing areas across software, AI, digital art, media, systems, research and open source.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8FAFC"/><stop offset="1" stop-color="#F1F5F9"/></linearGradient>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#0F172A" opacity=".045"/></pattern>
+  </defs>
+  <rect width="1400" height="330" rx="22" fill="url(#bg)"/>
+  <rect width="1400" height="330" rx="22" fill="url(#dots)"/>
+
+  <g font-family="Arial,Helvetica,sans-serif">
+    <text x="48" y="50" font-size="13" font-weight="800" letter-spacing="4" fill="#64748B">DOMAINES / AREAS OF WORK</text>
+
+    <g transform="translate(48 78)">
+      <g>
+        <rect width="205" height="182" rx="14" fill="#FFFFFF" stroke="#CBD5E1"/>
+        <rect width="205" height="7" rx="3" fill="#2563EB"/>
+        <text x="18" y="43" font-size="18" font-weight="800" fill="#0F172A">SOFTWARE</text>
+        <text x="18" y="70" font-size="13" fill="#475569">Apps · tools · web</text>
+        <text x="18" y="94" font-size="13" fill="#475569">Programming · interfaces</text>
+        <text x="18" y="137" font-size="12" font-weight="700" fill="#2563EB">BUILD / DÉVELOPPER</text>
+      </g>
+
+      <g transform="translate(219 0)">
+        <rect width="205" height="182" rx="14" fill="#FFFFFF" stroke="#CBD5E1"/>
+        <rect width="205" height="7" rx="3" fill="#0891B2"/>
+        <text x="18" y="43" font-size="18" font-weight="800" fill="#0F172A">AI &amp; AGENTS</text>
+        <text x="18" y="70" font-size="13" fill="#475569">Agents · swarm · local AI</text>
+        <text x="18" y="94" font-size="13" fill="#475569">RAG · MCP · automation</text>
+        <text x="18" y="137" font-size="12" font-weight="700" fill="#0891B2">CONNECT / ORCHESTRER</text>
+      </g>
+
+      <g transform="translate(438 0)">
+        <rect width="205" height="182" rx="14" fill="#FFFFFF" stroke="#CBD5E1"/>
+        <rect width="205" height="7" rx="3" fill="#DB2777"/>
+        <text x="18" y="43" font-size="18" font-weight="800" fill="#0F172A">VISUAL ART</text>
+        <text x="18" y="70" font-size="13" fill="#475569">Images · posters · concepts</text>
+        <text x="18" y="94" font-size="13" fill="#475569">Digital art · visual series</text>
+        <text x="18" y="137" font-size="12" font-weight="700" fill="#DB2777">CREATE / CRÉER</text>
+      </g>
+
+      <g transform="translate(657 0)">
+        <rect width="205" height="182" rx="14" fill="#FFFFFF" stroke="#CBD5E1"/>
+        <rect width="205" height="7" rx="3" fill="#EA580C"/>
+        <text x="18" y="43" font-size="18" font-weight="800" fill="#0F172A">MEDIA</text>
+        <text x="18" y="70" font-size="13" fill="#475569">Video · motion · music</text>
+        <text x="18" y="94" font-size="13" fill="#475569">Audio · storytelling</text>
+        <text x="18" y="137" font-size="12" font-weight="700" fill="#EA580C">PRODUCE / PRODUIRE</text>
+      </g>
+
+      <g transform="translate(876 0)">
+        <rect width="205" height="182" rx="14" fill="#FFFFFF" stroke="#CBD5E1"/>
+        <rect width="205" height="7" rx="3" fill="#0F766E"/>
+        <text x="18" y="43" font-size="18" font-weight="800" fill="#0F172A">SYSTEMS &amp; DATA</text>
+        <text x="18" y="70" font-size="13" fill="#475569">Linux · local tools · data</text>
+        <text x="18" y="94" font-size="13" fill="#475569">Integrations · delivery</text>
+        <text x="18" y="137" font-size="12" font-weight="700" fill="#0F766E">OPERATE / EXPLOITER</text>
+      </g>
+
+      <g transform="translate(1095 0)">
+        <rect width="205" height="182" rx="14" fill="#FFFFFF" stroke="#CBD5E1"/>
+        <rect width="205" height="7" rx="3" fill="#CA8A04"/>
+        <text x="18" y="43" font-size="18" font-weight="800" fill="#0F172A">R&amp;D / OPEN</text>
+        <text x="18" y="70" font-size="13" fill="#475569">Research · datasets · docs</text>
+        <text x="18" y="94" font-size="13" fill="#475569">Open source · benchmarks</text>
+        <text x="18" y="137" font-size="12" font-weight="700" fill="#CA8A04">EXPLORE / PARTAGER</text>
+      </g>
+    </g>
+
+    <text x="48" y="294" font-size="13" letter-spacing="1.7" fill="#64748B">PUBLIC PROFILE ONLY · PROFIL PUBLIC UNIQUEMENT — PRIVATE METHODS, INTERNAL ARCHITECTURE AND UNRELEASED WORK STAY PRIVATE</text>
+  </g>
+</svg>

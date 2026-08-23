@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="520" viewBox="0 0 1400 520" role="img" aria-labelledby="title desc">
+  <title id="title">Carnaverone Studio</title>
+  <desc id="desc">Independent multidisciplinary digital studio spanning software, digital art, media, AI, systems and research.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080B12"/>
+      <stop offset="0.52" stop-color="#0C111A"/>
+      <stop offset="1" stop-color="#10151D"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#FFFFFF" stroke-opacity=".035"/>
+    </pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="26"/></filter>
+  </defs>
+
+  <rect width="1400" height="520" rx="28" fill="url(#bg)"/>
+  <rect width="1400" height="520" rx="28" fill="url(#grid)"/>
+  <circle cx="1230" cy="65" r="180" fill="#2563EB" opacity=".12" filter="url(#glow)"/>
+  <circle cx="1120" cy="440" r="170" fill="#0F766E" opacity=".12" filter="url(#glow)"/>
+
+  <g font-family="Arial,Helvetica,sans-serif">
+    <text x="58" y="58" font-size="13" font-weight="700" letter-spacing="4" fill="#94A3B8">STUDIO NUMÉRIQUE INDÉPENDANT / INDEPENDENT DIGITAL STUDIO</text>
+    <text x="58" y="160" font-size="84" font-weight="900" letter-spacing="-3" fill="#F8FAFC">CARNAVERONE</text>
+    <text x="61" y="220" font-size="44" font-weight="300" letter-spacing="18" fill="#CBD5E1">STUDIO</text>
+
+    <text x="60" y="300" font-size="19" font-weight="700" fill="#F8FAFC">CODE · ART · MEDIA · AI · SYSTEMS · RESEARCH</text>
+    <text x="60" y="338" font-size="14" letter-spacing="2" fill="#94A3B8">SOFTWARE / VISUAL / VIDEO / AUDIO / WEB / AGENTS / DATA / OPEN SOURCE</text>
+
+    <g transform="translate(60 394)">
+      <rect width="118" height="40" rx="8" fill="#2563EB"/><text x="20" y="26" font-size="13" font-weight="800" fill="#fff">SOFTWARE</text>
+      <rect x="130" width="104" height="40" rx="8" fill="#DB2777"/><text x="158" y="26" font-size="13" font-weight="800" fill="#fff">ART</text>
+      <rect x="246" width="112" height="40" rx="8" fill="#EA580C"/><text x="266" y="26" font-size="13" font-weight="800" fill="#fff">VIDEO</text>
+      <rect x="370" width="108" height="40" rx="8" fill="#16A34A"/><text x="390" y="26" font-size="13" font-weight="800" fill="#fff">AUDIO</text>
+      <rect x="490" width="96" height="40" rx="8" fill="#0891B2"/><text x="516" y="26" font-size="13" font-weight="800" fill="#fff">AI</text>
+      <rect x="598" width="122" height="40" rx="8" fill="#CA8A04"/><text x="617" y="26" font-size="13" font-weight="800" fill="#fff">RESEARCH</text>
+    </g>
+
+    <g transform="translate(850 56)">
+      <rect width="490" height="406" rx="20" fill="#0A0F17" stroke="#273244"/>
+
+      <rect x="22" y="22" width="210" height="108" rx="12" fill="#111827" stroke="#2563EB" stroke-width="2"/>
+      <rect x="22" y="22" width="210" height="6" rx="3" fill="#2563EB"/>
+      <text x="42" y="58" font-size="13" font-weight="800" letter-spacing="2.5" fill="#93C5FD">CODE / APPS</text>
+      <text x="42" y="96" font-size="28" font-weight="800" fill="#F8FAFC">{ build }</text>
+
+      <rect x="246" y="22" width="222" height="108" rx="12" fill="#111827" stroke="#DB2777" stroke-width="2"/>
+      <rect x="246" y="22" width="222" height="6" rx="3" fill="#DB2777"/>
+      <text x="266" y="58" font-size="13" font-weight="800" letter-spacing="2.5" fill="#F9A8D4">VISUAL / ART</text>
+      <path d="M267 104 C292 65 316 122 344 82 S399 70 443 105" fill="none" stroke="#F9A8D4" stroke-width="5"/>
+
+      <rect x="22" y="144" width="140" height="104" rx="12" fill="#111827" stroke="#EA580C" stroke-width="2"/>
+      <rect x="22" y="144" width="140" height="6" rx="3" fill="#EA580C"/>
+      <text x="42" y="179" font-size="13" font-weight="800" fill="#FDBA74">VIDEO</text>
+      <polygon points="75,202 75,229 103,215" fill="#FDBA74"/>
+
+      <rect x="176" y="144" width="140" height="104" rx="12" fill="#111827" stroke="#16A34A" stroke-width="2"/>
+      <rect x="176" y="144" width="140" height="6" rx="3" fill="#16A34A"/>
+      <text x="196" y="179" font-size="13" font-weight="800" fill="#86EFAC">AUDIO</text>
+      <path d="M196 215 Q207 190 218 215 T240 215 T262 215 T284 215" fill="none" stroke="#86EFAC" stroke-width="4"/>
+
+      <rect x="330" y="144" width="138" height="104" rx="12" fill="#111827" stroke="#0891B2" stroke-width="2"/>
+      <rect x="330" y="144" width="138" height="6" rx="3" fill="#0891B2"/>
+      <text x="350" y="179" font-size="13" font-weight="800" fill="#67E8F9">AI / AGENTS</text>
+      <circle cx="370" cy="216" r="8" fill="#67E8F9"/><circle cx="398" cy="199" r="8" fill="#67E8F9"/><circle cx="426" cy="216" r="8" fill="#67E8F9"/>
+      <path d="M378 211 L390 204 M406 204 L418 211" stroke="#67E8F9" stroke-width="3"/>
+
+      <rect x="22" y="262" width="292" height="116" rx="12" fill="#111827" stroke="#0F766E" stroke-width="2"/>
+      <rect x="22" y="262" width="292" height="6" rx="3" fill="#0F766E"/>
+      <text x="42" y="298" font-size="13" font-weight="800" letter-spacing="2.2" fill="#5EEAD4">SYSTEMS / WEB / DATA</text>
+      <text x="42" y="340" font-size="22" font-weight="700" fill="#F8FAFC">local · connected · open</text>
+
+      <rect x="328" y="262" width="140" height="116" rx="12" fill="#111827" stroke="#CA8A04" stroke-width="2"/>
+      <rect x="328" y="262" width="140" height="6" rx="3" fill="#CA8A04"/>
+      <text x="348" y="298" font-size="13" font-weight="800" fill="#FDE68A">RESEARCH</text>
+      <text x="348" y="344" font-size="26" font-weight="900" fill="#F8FAFC">? → !</text>
+    </g>
+  </g>
+</svg>
