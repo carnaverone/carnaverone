@@ -38,13 +38,14 @@
     <circle cx="1320" cy="453" r="4"/><circle cx="1142" cy="275" r="4"/>
   </g>
   <g font-family="Arial,Helvetica,sans-serif">
-    <text x="88" y="105" fill="#C5A66A" font-size="15" font-weight="700" letter-spacing="5">INDEPENDENT DIGITAL STUDIO</text>
-    <text x="82" y="235" fill="#F4F1E9" font-size="92" font-weight="800" letter-spacing="-3">CARNAVERONE</text>
-    <text x="90" y="305" fill="url(#gold)" font-size="43" font-weight="300" letter-spacing="17">STUDIO A.I.</text>
-    <path d="M90 350H760" stroke="url(#gold)" stroke-width="2" opacity=".8"/>
-    <text x="90" y="405" fill="#E7E3D9" font-size="21" font-weight="600" letter-spacing="2">SOFTWARE  /  AI  /  CREATIVE MEDIA  /  RESEARCH</text>
-    <text x="90" y="452" fill="#9299A3" font-size="16" letter-spacing="2">BUILD SYSTEMS · EXPLORE IDEAS · CREATE EXPERIENCES</text>
-    <text x="90" y="515" fill="#6F7782" font-size="13" letter-spacing="3">QUÉBEC · CANADA</text>
-    <text x="1510" y="515" fill="#6F7782" font-size="12" text-anchor="end" letter-spacing="2">EST. INDEPENDENT</text>
+    <text x="88" y="82" fill="#C5A66A" font-size="14" font-weight="700" letter-spacing="5">INDEPENDENT DIGITAL STUDIO</text>
+    <text x="82" y="190" fill="#F4F1E9" font-size="76" font-weight="800" letter-spacing="-2">CARNAVERONE</text>
+    <text x="88" y="275" fill="url(#gold)" font-size="62" font-weight="600" letter-spacing="9">STUDIO</text>
+    <text x="91" y="337" fill="#E4C27A" font-size="38" font-weight="300" letter-spacing="16">A.I.</text>
+    <path d="M90 370H760" stroke="url(#gold)" stroke-width="2" opacity=".8"/>
+    <text x="90" y="420" fill="#E7E3D9" font-size="20" font-weight="600" letter-spacing="2">SOFTWARE / AI / CREATIVE MEDIA / RESEARCH</text>
+    <text x="90" y="463" fill="#9299A3" font-size="15" letter-spacing="2">BUILD SYSTEMS · EXPLORE IDEAS · CREATE EXPERIENCES</text>
+    <text x="90" y="520" fill="#6F7782" font-size="13" letter-spacing="3">QUÉBEC · CANADA</text>
+    <text x="1510" y="520" fill="#6F7782" font-size="12" text-anchor="end" letter-spacing="2">INDEPENDENT STUDIO</text>
   </g>
 </svg>
