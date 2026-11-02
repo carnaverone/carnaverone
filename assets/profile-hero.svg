@@ -1,51 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc">
   <title id="title">Carnaverone Studio A.I.</title>
-  <desc id="desc">Independent digital studio — software, artificial intelligence, creative media and research.</desc>
+  <desc id="desc">Carnaverone Studio A.I. — independent digital studio for software, artificial intelligence, creative media and research.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#080A0E"/>
-      <stop offset=".55" stop-color="#11151B"/>
-      <stop offset="1" stop-color="#080B10"/>
+      <stop offset=".52" stop-color="#12161D"/>
+      <stop offset="1" stop-color="#080A0E"/>
     </linearGradient>
     <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#A77B32"/>
-      <stop offset=".5" stop-color="#E4C27A"/>
-      <stop offset="1" stop-color="#9A7135"/>
+      <stop offset="0" stop-color="#9D7438"/>
+      <stop offset=".5" stop-color="#F0D49A"/>
+      <stop offset="1" stop-color="#9D7438"/>
     </linearGradient>
-    <radialGradient id="aura">
-      <stop offset="0" stop-color="#B88A42" stop-opacity=".2"/>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#B88A42" stop-opacity=".17"/>
       <stop offset="1" stop-color="#B88A42" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#D8C18E" stroke-opacity=".055" stroke-width="1"/>
+      <path d="M40 0H0V40" fill="none" stroke="#D8C18E" stroke-opacity=".045"/>
     </pattern>
-    <filter id="blur"><feGaussianBlur stdDeviation="32"/></filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="36"/></filter>
   </defs>
   <rect width="1600" height="560" rx="24" fill="url(#bg)"/>
   <rect width="1600" height="560" rx="24" fill="url(#grid)"/>
-  <ellipse cx="1330" cy="270" rx="390" ry="300" fill="url(#aura)" filter="url(#blur)"/>
-  <path d="M1030 0V560 M1060 0V560" stroke="#D2AE68" stroke-opacity=".12"/>
-  <g fill="none" stroke="url(#gold)" stroke-opacity=".58">
-    <circle cx="1320" cy="275" r="178" stroke-width="1.5"/>
-    <circle cx="1320" cy="275" r="142" stroke-opacity=".32"/>
-    <circle cx="1320" cy="275" r="104" stroke-opacity=".24"/>
-    <path d="M1142 275H1498M1320 97V453" stroke-opacity=".28"/>
-    <path d="M1194 149L1446 401M1446 149L1194 401" stroke-opacity=".2"/>
-    <path d="M1090 275H1150M1490 275H1550M1320 45V105M1320 445V505"/>
+  <ellipse cx="800" cy="250" rx="590" ry="300" fill="url(#glow)" filter="url(#soft)"/>
+  <g fill="none" stroke="#D5B779" stroke-opacity=".22">
+    <circle cx="800" cy="245" r="205"/>
+    <circle cx="800" cy="245" r="225" stroke-opacity=".1"/>
+    <path d="M120 245H1480M800 35V455" stroke-opacity=".12"/>
+    <path d="M610 55L990 435M990 55L610 435" stroke-opacity=".08"/>
   </g>
-  <g fill="#E6C98C">
-    <circle cx="1320" cy="97" r="4"/><circle cx="1498" cy="275" r="4"/>
-    <circle cx="1320" cy="453" r="4"/><circle cx="1142" cy="275" r="4"/>
+  <g fill="#DDBD7B" opacity=".72">
+    <circle cx="800" cy="40" r="3"/><circle cx="800" cy="450" r="3"/>
+    <circle cx="120" cy="245" r="3"/><circle cx="1480" cy="245" r="3"/>
   </g>
-  <g font-family="Arial,Helvetica,sans-serif">
-    <text x="88" y="82" fill="#C5A66A" font-size="14" font-weight="700" letter-spacing="5">INDEPENDENT DIGITAL STUDIO</text>
-    <text x="82" y="190" fill="#F4F1E9" font-size="76" font-weight="800" letter-spacing="-2">CARNAVERONE</text>
-    <text x="88" y="275" fill="url(#gold)" font-size="62" font-weight="600" letter-spacing="9">STUDIO</text>
-    <text x="91" y="337" fill="#E4C27A" font-size="38" font-weight="300" letter-spacing="16">A.I.</text>
-    <path d="M90 370H760" stroke="url(#gold)" stroke-width="2" opacity=".8"/>
-    <text x="90" y="420" fill="#E7E3D9" font-size="20" font-weight="600" letter-spacing="2">SOFTWARE / AI / CREATIVE MEDIA / RESEARCH</text>
-    <text x="90" y="463" fill="#9299A3" font-size="15" letter-spacing="2">BUILD SYSTEMS · EXPLORE IDEAS · CREATE EXPERIENCES</text>
-    <text x="90" y="520" fill="#6F7782" font-size="13" letter-spacing="3">QUÉBEC · CANADA</text>
-    <text x="1510" y="520" fill="#6F7782" font-size="12" text-anchor="end" letter-spacing="2">INDEPENDENT STUDIO</text>
+  <g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+    <text x="800" y="105" fill="#C5A66A" font-size="14" font-weight="700" letter-spacing="6">INDEPENDENT DIGITAL STUDIO</text>
+    <text x="800" y="225" fill="#F4F1E9" font-size="82" font-weight="800" letter-spacing="1">CARNAVERONE</text>
+    <text x="800" y="315" fill="url(#gold)" font-size="68" font-weight="600" letter-spacing="13">STUDIO</text>
+    <text x="800" y="382" fill="#E4C27A" font-size="43" font-weight="400" letter-spacing="20">A.I.</text>
+    <path d="M420 420H1180" stroke="url(#gold)" stroke-width="1.5" opacity=".75"/>
+    <text x="800" y="465" fill="#E7E3D9" font-size="18" font-weight="600" letter-spacing="2">SOFTWARE  ·  AI  ·  CREATIVE MEDIA  ·  RESEARCH</text>
+    <text x="800" y="520" fill="#9299A3" font-size="13" letter-spacing="4">QUÉBEC  ·  CANADA</text>
   </g>
 </svg>
